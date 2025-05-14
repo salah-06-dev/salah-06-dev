@@ -8,7 +8,7 @@
 ## 🚀 **À propos de moi**  
 - 🎓 Étudiant en **Informatique** à la Faculté des Sciences Semlalia de Marrakech.  
 - 🔧 **Compétences techniques** :  
-   - **Langages** : C, Python, HTML/CSS, JavaScript, C++ 
+   - **Langages** : C, Python, HTML/CSS, JavaScript, C++, MySQL, SQLite 
    - **Systèmes** : Linux, Shell Scripting  
    - **Mathématiques** : Statistiques appliquées, Algèbre linéaire numérique  
 - 💡 Curieux, motivé et orienté **solutions innovantes**.  
